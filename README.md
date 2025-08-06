@@ -11,3 +11,5 @@ Materials Used:
 * Passive buzzer
 * 4-pin push button
 * 330 ohm resistors
+
+<img width="3000" height="1301" alt="Image" src="https://github.com/user-attachments/assets/b2022b4e-e55f-4c44-814d-6440e3e3a01b" />
