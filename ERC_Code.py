@@ -210,7 +210,7 @@ while True:
             display_digits = combine_threshold_and_counter(threshold, counter)
 
         except RuntimeError:
-            pass  # ignore invalid reads (i.e., double readings or sensor errors)    
+            pass  # ignore invalid reads
 
         last_sensor_time = now
 
