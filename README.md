@@ -1,4 +1,4 @@
-**Project for UCSD's ECE SIPP Hackathon Contest**  
+# **Project for UCSD's ECE SIPP Hackathon Contest**  
 
 **Problem Addressed**: A common issue that people run into when exercising over several intervals or sets is that people tend to lose track of the current repetition that they are on for a variety of reasons. This often results in them having to redo the exercise or risk skipping a certain number of repetitions.   
 
