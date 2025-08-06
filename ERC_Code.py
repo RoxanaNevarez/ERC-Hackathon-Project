@@ -199,7 +199,7 @@ while True:
 
             if detected and not object_inside: # object just entered threshold zone
                 counter += 1
-                print(f"Rep #{counter} detected")
+                print(f"Rep #{counter} detected") # display current repetition detected
                 start_beep() # short beep
                 object_inside = True  # set state to "inside"
             
