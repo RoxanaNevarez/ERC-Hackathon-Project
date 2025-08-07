@@ -1,4 +1,5 @@
 # ------ Exercise Repetition Counter ------
+# Collaboration with Tyler Ogawa
 # Function: counts repetitions of any exercise measured by proximity between a person and a distance sensor
 #           Uses a 3461BS LED display to show the number of repetitions and the threshold
 #           Uses a potentiometer to set the threshold distance depending on the exercise
