@@ -12,4 +12,4 @@ Materials Used:
 * 4-pin push button
 * 330 ohm resistors
 
-<img width="3000" height="1240" alt="Image" src="https://github.com/user-attachments/assets/1817c5a3-f510-48f0-85ec-99c13e06844b" />
+<img width="3000" height="1240" alt="Image" src="https://github.com/user-attachments/assets/c4ddfa36-782e-40d4-991c-f5c1d2dbbf00" />
